@@ -1,0 +1,14 @@
+'''
+# hey Owais remove this line 
+# Author: Owais
+# Course: 100 days of code
+'''
+print("Hey i am a \"good boy \"\n and this viewer is also a good boy/girl")
+
+# print ("Hello world")
+# # this is a single line  comment
+# print("this is a print statement")
+# print("hello world") #printing hello world
+
+print("hey"'5,6',sep="~",end="009")
+print("owais")
